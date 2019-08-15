@@ -95,3 +95,15 @@ Pai 是通过调用 agent 上的函数来执行任务的。函数应该放在 ag
 其中 files 就是 lib 的文件名，exists 就是 files.py 文件中的函数名，data 是 exists 函数的实参。
 
 备注：files.py 是一个测试文件，其中加入随机等待时间，方便测试时观察。
+
+
+> 详细文档：https://sweeter.io/#、pai/
+
+## 加入我们
+
+QQ 交流群：**158755338**
+> (验证码：python) <small>注意首字母小写</small>
+
+微信公众号：**喜文测试**
+
+![QQ2](https://sweeter.io/docs/_media/QQ.png)![WeChat](https://sweeter.io/docs/_media/WeChat.png)
