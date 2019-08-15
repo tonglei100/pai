@@ -99,7 +99,7 @@ Pai 是通过调用 agent 上的函数来执行任务的。函数应该放在 ag
 备注：files.py 是一个测试文件，其中加入随机等待时间，方便测试时观察。
 
 
-> 详细文档：https://sweeter.io/#、pai/
+> 详细文档：https://sweeter.io/#/pai/
 
 ## 加入我们
 
